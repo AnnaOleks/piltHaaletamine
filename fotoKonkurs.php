@@ -84,7 +84,7 @@ if(isSet($_REQUEST["uus_komment"]) && !empty($_REQUEST["komment"])){
     <nav>
         <ul class="menu">
             <li>
-                <a href="https://annaoleks24.thkit.ee/PHP/php/?leht=avaleht.php">Avaleht</a>
+                <a href="https://annaoleks24.thkit.ee/php/php/?leht=avaleht.php">Avaleht</a>
             </li>
             <li>
                 <a href="fotoKonkurs.php">Adminileht</a>

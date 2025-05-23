@@ -34,6 +34,9 @@ if (isset($_REQUEST["nimetus"])) {
     <nav>
         <ul class="menu">
             <li>
+                <a href="https://annaoleks24.thkit.ee/PHP/php/?leht=avaleht.php">Avaleht</a>
+            </li>
+            <li>
                 <a href="fotoKonkurs.php">Adminileht</a>
             </li>
             <li>
